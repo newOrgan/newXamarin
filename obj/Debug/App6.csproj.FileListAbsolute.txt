@@ -1,0 +1,127 @@
+C:\Users\OtdelIT\Documents\Visual Studio 2015\Projects\App6\App6\bin\Debug\App6.dll
+C:\Users\OtdelIT\Documents\Visual Studio 2015\Projects\App6\App6\bin\Debug\App6.pdb
+C:\Users\OtdelIT\Documents\Visual Studio 2015\Projects\App6\App6\bin\Debug\App6.App6.apk
+C:\Users\OtdelIT\Documents\Visual Studio 2015\Projects\App6\App6\bin\Debug\App6.App6-Signed.apk
+C:\Users\OtdelIT\Documents\Visual Studio 2015\Projects\App6\App6\obj\Debug\App6.dll
+C:\Users\OtdelIT\Documents\Visual Studio 2015\Projects\App6\App6\obj\Debug\App6.pdb
+C:\Users\OtdelIT\Documents\Visual Studio 2015\Projects\App6\App6\obj\Debug\android\bin\App6.App6.apk
+C:\Users\OtdelIT\Documents\Visual Studio 2015\Projects\App6\App6\obj\Debug\res\layout\main.xml
+C:\Users\OtdelIT\Documents\Visual Studio 2015\Projects\App6\App6\obj\Debug\res\values\strings.xml
+C:\Users\OtdelIT\Documents\Visual Studio 2015\Projects\App6\App6\obj\Debug\res\drawable\icon.png
+C:\Users\OtdelIT\Documents\Visual Studio 2015\Projects\App6\App6\obj\Debug\R.cs.flag
+C:\Users\OtdelIT\Documents\Visual Studio 2015\Projects\App6\App6\obj\Debug\uploadflags.txt
+C:\Users\OtdelIT\documents\visual studio 2015\Projects\App6\App6\obj\Debug\App6.csprojResolveAssemblyReference.cache
+C:\Users\OtdelIT\documents\visual studio 2015\Projects\App6\App6\obj\Debug\App6.dll.mdb
+C:\Users\OtdelIT\documents\visual studio 2015\Projects\App6\App6\bin\Debug\App6.dll.mdb
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\App6.dll
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\App6.pdb
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\bin\Debug\App6.dll
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\bin\Debug\App6.pdb
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\bin\Debug\App6.App6.apk
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\bin\Debug\App6.App6-Signed.apk
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\android\bin\App6.App6.apk
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\res\layout\main.xml
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\res\values\strings.xml
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\res\drawable\icon.png
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\res\drawable\windowstyle.xml
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\R.cs.flag
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\uploadflags.txt
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\res\layout\mainadapter.xml
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\res\drawable\fastfood.png
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\res\layout\toolbar.xml
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\res\values\styles.xml
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\res\menu\home.xml
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\res\menu\photo_edit.xml
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\res\drawable-hdpi\ic_action_content_create.png
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\res\drawable-hdpi\ic_action_content_redo.png
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\res\drawable-hdpi\ic_action_content_save.png
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\res\drawable-hdpi\ic_action_content_undo.png
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\res\drawable-hdpi\ic_action_social_share.png
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\res\drawable-mdpi\ic_action_content_create.png
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\res\drawable-mdpi\ic_action_content_redo.png
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\res\drawable-mdpi\ic_action_content_save.png
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\res\drawable-mdpi\ic_action_content_undo.png
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\res\drawable-mdpi\ic_action_social_share.png
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\res\drawable-xhdpi\ic_action_content_create.png
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\res\drawable-xhdpi\ic_action_content_redo.png
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\res\drawable-xhdpi\ic_action_content_save.png
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\res\drawable-xhdpi\ic_action_content_undo.png
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\res\drawable-xhdpi\ic_action_social_share.png
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\res\drawable-xxhdpi\ic_action_content_create.png
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\res\drawable-xxhdpi\ic_action_content_redo.png
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\res\drawable-xxhdpi\ic_action_content_save.png
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\res\drawable-xxhdpi\ic_action_content_undo.png
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\res\drawable-xxhdpi\ic_action_social_share.png
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\obj\Debug\App6.dll.mdb
+C:\Users\OtdelIT\Source\Repos\MyRepo\App6\bin\Debug\App6.dll.mdb
+E:\Res\App6\bin\Debug\App6.dll
+E:\Res\App6\bin\Debug\App6.pdb
+E:\Res\App6\bin\Debug\App6.App6.apk
+E:\Res\App6\bin\Debug\App6.App6-Signed.apk
+E:\Res\App6\obj\Debug\App6.csprojResolveAssemblyReference.cache
+E:\Res\App6\obj\Debug\App6.dll
+E:\Res\App6\obj\Debug\App6.pdb
+E:\Res\App6\obj\Debug\android\bin\App6.App6.apk
+E:\Res\App6\obj\Debug\res\layout\mainadapter.xml
+E:\Res\App6\obj\Debug\res\layout\toolbar.xml
+E:\Res\App6\obj\Debug\res\layout\main.xml
+E:\Res\App6\obj\Debug\res\values\strings.xml
+E:\Res\App6\obj\Debug\res\drawable\icon.png
+E:\Res\App6\obj\Debug\res\drawable\windowstyle.xml
+E:\Res\App6\obj\Debug\res\drawable\fastfood.png
+E:\Res\App6\obj\Debug\res\values\styles.xml
+E:\Res\App6\obj\Debug\res\menu\home.xml
+E:\Res\App6\obj\Debug\res\menu\photo_edit.xml
+E:\Res\App6\obj\Debug\res\drawable-hdpi\ic_action_content_create.png
+E:\Res\App6\obj\Debug\res\drawable-hdpi\ic_action_content_redo.png
+E:\Res\App6\obj\Debug\res\drawable-hdpi\ic_action_content_save.png
+E:\Res\App6\obj\Debug\res\drawable-hdpi\ic_action_content_undo.png
+E:\Res\App6\obj\Debug\res\drawable-hdpi\ic_action_social_share.png
+E:\Res\App6\obj\Debug\res\drawable-mdpi\ic_action_content_create.png
+E:\Res\App6\obj\Debug\res\drawable-mdpi\ic_action_content_redo.png
+E:\Res\App6\obj\Debug\res\drawable-mdpi\ic_action_content_save.png
+E:\Res\App6\obj\Debug\res\drawable-mdpi\ic_action_content_undo.png
+E:\Res\App6\obj\Debug\res\drawable-mdpi\ic_action_social_share.png
+E:\Res\App6\obj\Debug\res\drawable-xhdpi\ic_action_content_create.png
+E:\Res\App6\obj\Debug\res\drawable-xhdpi\ic_action_content_redo.png
+E:\Res\App6\obj\Debug\res\drawable-xhdpi\ic_action_content_save.png
+E:\Res\App6\obj\Debug\res\drawable-xhdpi\ic_action_content_undo.png
+E:\Res\App6\obj\Debug\res\drawable-xhdpi\ic_action_social_share.png
+E:\Res\App6\obj\Debug\res\drawable-xxhdpi\ic_action_content_create.png
+E:\Res\App6\obj\Debug\res\drawable-xxhdpi\ic_action_content_redo.png
+E:\Res\App6\obj\Debug\res\drawable-xxhdpi\ic_action_content_save.png
+E:\Res\App6\obj\Debug\res\drawable-xxhdpi\ic_action_content_undo.png
+E:\Res\App6\obj\Debug\res\drawable-xxhdpi\ic_action_social_share.png
+E:\Res\App6\obj\Debug\res\drawable\ic_action_content_create.png
+E:\Res\App6\obj\Debug\res\drawable\ic_action_content_redo.png
+E:\Res\App6\obj\Debug\res\drawable\ic_action_content_save.png
+E:\Res\App6\obj\Debug\res\drawable\ic_action_content_undo.png
+E:\Res\App6\obj\Debug\res\drawable\ic_action_social_share.png
+E:\Res\App6\obj\Debug\R.cs.flag
+E:\Res\App6\obj\Debug\uploadflags.txt
+E:\Res\App6\bin\Debug\App6.dll.mdb
+E:\Res\App6\bin\Debug\Java.Interop.dll.mdb
+E:\Res\App6\bin\Debug\Mono.Android.dll.mdb
+E:\Res\App6\bin\Debug\mscorlib.dll.mdb
+E:\Res\App6\bin\Debug\System.ComponentModel.Composition.dll.mdb
+E:\Res\App6\bin\Debug\System.Core.dll.mdb
+E:\Res\App6\bin\Debug\System.dll.mdb
+E:\Res\App6\bin\Debug\System.Net.Http.dll.mdb
+E:\Res\App6\bin\Debug\System.Runtime.Serialization.dll.mdb
+E:\Res\App6\bin\Debug\System.ServiceModel.Internals.dll.mdb
+E:\Res\App6\bin\Debug\System.Xml.dll.mdb
+E:\Res\App6\bin\Debug\System.Xml.Linq.dll.mdb
+E:\Res\App6\obj\Debug\android\assets\App6.dll.mdb
+E:\Res\App6\obj\Debug\android\assets\Java.Interop.dll.mdb
+E:\Res\App6\obj\Debug\android\assets\Mono.Android.dll.mdb
+E:\Res\App6\obj\Debug\android\assets\mscorlib.dll.mdb
+E:\Res\App6\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+E:\Res\App6\obj\Debug\android\assets\System.Core.dll.mdb
+E:\Res\App6\obj\Debug\android\assets\System.dll.mdb
+E:\Res\App6\obj\Debug\android\assets\System.Net.Http.dll.mdb
+E:\Res\App6\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+E:\Res\App6\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+E:\Res\App6\obj\Debug\android\assets\System.Xml.dll.mdb
+E:\Res\App6\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+E:\Res\App6\obj\Debug\App6.dll.mdb
+E:\Res\App6\bin\Debug\App6.dll.mdb

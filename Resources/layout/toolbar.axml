@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="?android:attr/actionBarSize"
+    android:background="#000000"
+    android:theme="@android:style/ThemeOverlay.Material.Dark.ActionBar"
+    android:popupTheme="@android:style/ThemeOverlay.Material.Light">
+    <ImageView
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView3" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MyText"
+        android:textColor="#fff"
+        android:textSize="19dp"
+        android:textStyle="bold"
+        android:layout_marginLeft="30dp" />
+    <ImageView
+        android:src="@drawable/ic_action_social_share"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView1"
+        android:layout_gravity="right" />
+    <ImageView
+        android:src="@drawable/ic_action_content_undo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView2"
+        android:layout_gravity="right" />
+    <EditText
+        android:layout_height="wrap_content"
+        android:id="@+id/editText1"
+        android:layout_width="match_parent"
+        android:foregroundTint="#f0f8ffff"
+        android:hint="Введите текст..."
+        android:textColor="#fff"
+        android:textColorHint="#fff"
+        android:visibility="gone" />
+</Toolbar>
