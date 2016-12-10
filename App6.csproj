@@ -49,8 +49,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Adapters\KafeMainAdapter.cs" />
     <Compile Include="Adapters\MainAdapter.cs" />
+    <Compile Include="mActivitys\KafeMainActivity.cs" />
     <Compile Include="MainActivity.cs" />
+    <Compile Include="Models\pModelKafe.cs" />
     <Compile Include="Models\pModelKitchen.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -180,16 +183,16 @@
     <AndroidResource Include="Resources\drawable\mio.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-hdpi\logo-mio.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\logo_mio.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-mdpi\logo-mio.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\logo_mio.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-xhdpi\logo-mio.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\logo_mio.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-xxhdpi\logo-mio.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\logo_mio.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

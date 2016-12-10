@@ -66,7 +66,13 @@ namespace App6
 			public const int Icon = 2130837510;
 			
 			// aapt resource value: 0x7f020007
-			public const int windowStyle = 2130837511;
+			public const int logo_mio = 2130837511;
+			
+			// aapt resource value: 0x7f020008
+			public const int mio = 2130837512;
+			
+			// aapt resource value: 0x7f020009
+			public const int windowStyle = 2130837513;
 			
 			static Drawable()
 			{
@@ -81,32 +87,44 @@ namespace App6
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f070007
-			public const int editText1 = 2131165191;
-			
-			// aapt resource value: 0x7f070002
-			public const int imageMainIcon = 2131165186;
-			
-			// aapt resource value: 0x7f070005
-			public const int imageView1 = 2131165189;
+			// aapt resource value: 0x7f07000b
+			public const int editText1 = 2131165195;
 			
 			// aapt resource value: 0x7f070006
-			public const int imageView2 = 2131165190;
-			
-			// aapt resource value: 0x7f070004
-			public const int imageView3 = 2131165188;
-			
-			// aapt resource value: 0x7f070001
-			public const int listView = 2131165185;
+			public const int imageMainIcon = 2131165190;
 			
 			// aapt resource value: 0x7f070009
-			public const int menu_settings = 2131165193;
+			public const int imageView1 = 2131165193;
+			
+			// aapt resource value: 0x7f07000a
+			public const int imageView2 = 2131165194;
 			
 			// aapt resource value: 0x7f070008
-			public const int menu_share = 2131165192;
+			public const int imageView3 = 2131165192;
+			
+			// aapt resource value: 0x7f070004
+			public const int kafe_adress = 2131165188;
 			
 			// aapt resource value: 0x7f070003
-			public const int textViewMainTitle = 2131165187;
+			public const int kafe_title = 2131165187;
+			
+			// aapt resource value: 0x7f070005
+			public const int listView = 2131165189;
+			
+			// aapt resource value: 0x7f070001
+			public const int listViewKafe = 2131165185;
+			
+			// aapt resource value: 0x7f070002
+			public const int logo_kafe = 2131165186;
+			
+			// aapt resource value: 0x7f07000d
+			public const int menu_settings = 2131165197;
+			
+			// aapt resource value: 0x7f07000c
+			public const int menu_share = 2131165196;
+			
+			// aapt resource value: 0x7f070007
+			public const int textViewMainTitle = 2131165191;
 			
 			// aapt resource value: 0x7f070000
 			public const int toolbar = 2131165184;

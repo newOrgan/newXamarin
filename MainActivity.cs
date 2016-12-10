@@ -49,14 +49,14 @@ namespace App6
             listView.Adapter = adapter;
 
             //click ListView
-            listView.ItemClick += clickListView();
+            listView.ItemClick += clickListView;
 
         }
 
         private void clickListView(object sender, AdapterView.ItemClickEventArgs e)
         {
-            Intent intent = new Intent(this, typeof());
-            intent.PutExtra("kitchen", list[e.Position].Kitchen);
+            Intent intent = new Intent(this, typeof(App6.mActivitys.KafeMainActivity));
+            intent.PutExtra("id", list[e.Position].Kitchen);
             StartActivity(intent);
         }
     }

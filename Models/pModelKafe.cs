@@ -14,6 +14,11 @@ namespace App6.Models
 {
     class pModelKafe
     {
-
+        public int rest_id { get; set; }
+        public string rest_string_id { get; set; }
+        public string rest_name { get; set; }
+        public string rest_adress { get; set; }
+        public int rest_spec { get; set; }
+        public int rest_kitchen { get; set; }
     }
 }
