@@ -27,12 +27,12 @@ namespace App6.mActivitys
             base.OnCreate(savedInstanceState);
             SetContentView(Resource.Layout.KafeMain);
 
-            //
+            
             listView = FindViewById<ListView>(Resource.Id.listViewKafe);
 
-            int idKitchen  = Intent.GetIntExtra("id", 0);
+            int id = Intent.GetIntExtra("id", 1);
 
-            Toast.MakeText(this, idKitchen, ToastLength.Short).Show();
+            Toast.MakeText(this, id.ToString(), ToastLength.Short).Show();
 
 
             list = new List<pModelKafe>
@@ -40,12 +40,13 @@ namespace App6.mActivitys
                 new pModelKafe {rest_id = 1, rest_string_id = "1", rest_name = "name 1", rest_adress = "Ангарский бульвар 44", rest_kitchen = 1, rest_spec = 1 },
                 new pModelKafe {rest_id = 2, rest_string_id = "2", rest_name = "name 2", rest_adress = "Ангарский бульвар 44", rest_kitchen = 1, rest_spec = 1 },
                 new pModelKafe {rest_id = 3, rest_string_id = "3", rest_name = "name 3", rest_adress = "Ангарский бульвар 44", rest_kitchen = 1, rest_spec = 1 },
-                new pModelKafe {rest_id = 4, rest_string_id = "4", rest_name = "name 4", rest_adress = "Ангарский бульвар 44", rest_kitchen = 1, rest_spec = 1 },
+                new pModelKafe {rest_id = 4, rest_string_id = "4", rest_name = "name 4", rest_adress = "Ангарский бульвар 44", rest_kitchen = 1, rest_spec = 1 }
             };
 
-            adapter = new KafeMainAdapter(list, this);
+            adapter = new KafeMainAdapter(this.list, this);
 
             listView.Adapter = adapter;
+            
         }
     }
 }

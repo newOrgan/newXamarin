@@ -24,8 +24,6 @@ namespace App6
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
-
-            // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
 
             //Заполнение list 
@@ -51,11 +49,18 @@ namespace App6
             //click ListView
             listView.ItemClick += clickListView;
 
+            //Toolbar
+            var btnToolbar = FindViewById<ImageView>(Resource.Id.image1);
+            btnToolbar.Click += (s, e) =>
+            {
+                Toast.MakeText(this, "ToolBar click", ToastLength.Short).Show();
+            };
+
         }
 
         private void clickListView(object sender, AdapterView.ItemClickEventArgs e)
         {
-            Intent intent = new Intent(this, typeof(App6.mActivitys.KafeMainActivity));
+            Intent intent = new Intent(this, typeof(mActivitys.KafeMainActivity));
             intent.PutExtra("id", list[e.Position].Kitchen);
             StartActivity(intent);
         }

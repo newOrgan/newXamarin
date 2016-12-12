@@ -9,6 +9,7 @@
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
+    <activity android:label="KafeMainActivity" android:name="md5c9e28936ae5034692ac7bb672d8527a4.KafeMainActivity" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="App6.App6.mono.MonoRuntimeProvider.__mono_init__" />
   </application>
 </manifest>

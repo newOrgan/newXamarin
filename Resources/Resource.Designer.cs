@@ -90,6 +90,9 @@ namespace App6
 			// aapt resource value: 0x7f07000b
 			public const int editText1 = 2131165195;
 			
+			// aapt resource value: 0x7f070008
+			public const int image1 = 2131165192;
+			
 			// aapt resource value: 0x7f070006
 			public const int imageMainIcon = 2131165190;
 			
@@ -98,9 +101,6 @@ namespace App6
 			
 			// aapt resource value: 0x7f07000a
 			public const int imageView2 = 2131165194;
-			
-			// aapt resource value: 0x7f070008
-			public const int imageView3 = 2131165192;
 			
 			// aapt resource value: 0x7f070004
 			public const int kafe_adress = 2131165188;

@@ -7,7 +7,6 @@
     <include
         android:id="@+id/toolbar"
         layout="@layout/toolbar" />
-  
     <ListView
         android:id="@+id/listViewKafe"
         android:layout_width="match_parent"

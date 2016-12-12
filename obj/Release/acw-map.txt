@@ -2,7 +2,15 @@ App6.MainActivity, App6;md50033386ba710bcf156abf7e9c48d30ef.MainActivity
 App6.MainActivity, App6, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50033386ba710bcf156abf7e9c48d30ef.MainActivity
 App6.MainActivity;md50033386ba710bcf156abf7e9c48d30ef.MainActivity
 app6.MainActivity;md50033386ba710bcf156abf7e9c48d30ef.MainActivity
+App6.mActivitys.KafeMainActivity, App6;md5c9e28936ae5034692ac7bb672d8527a4.KafeMainActivity
+App6.mActivitys.KafeMainActivity, App6, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c9e28936ae5034692ac7bb672d8527a4.KafeMainActivity
+App6.mActivitys.KafeMainActivity;md5c9e28936ae5034692ac7bb672d8527a4.KafeMainActivity
+app6.mactivitys.KafeMainActivity;md5c9e28936ae5034692ac7bb672d8527a4.KafeMainActivity
 App6.Adapter.MainAdapter, App6;md5f4c8dd40288d4927e9dd2673c30c335c.MainAdapter
 App6.Adapter.MainAdapter, App6, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f4c8dd40288d4927e9dd2673c30c335c.MainAdapter
 App6.Adapter.MainAdapter;md5f4c8dd40288d4927e9dd2673c30c335c.MainAdapter
 app6.adapter.MainAdapter;md5f4c8dd40288d4927e9dd2673c30c335c.MainAdapter
+App6.Adapters.KafeMainAdapter, App6;md5867ebcac3ec4f925c951ac5bb9bc7dda.KafeMainAdapter
+App6.Adapters.KafeMainAdapter, App6, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5867ebcac3ec4f925c951ac5bb9bc7dda.KafeMainAdapter
+App6.Adapters.KafeMainAdapter;md5867ebcac3ec4f925c951ac5bb9bc7dda.KafeMainAdapter
+app6.adapters.KafeMainAdapter;md5867ebcac3ec4f925c951ac5bb9bc7dda.KafeMainAdapter
